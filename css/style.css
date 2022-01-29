@@ -38,6 +38,7 @@ body {
     background-color: var(--clr-main-bg);
     color: var(--clr-main-paragraph);
     font-size: 0.938rem;
+    padding-block: 2rem 1rem;
 }
 
 /******************************/
